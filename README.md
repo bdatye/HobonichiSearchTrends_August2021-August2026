@@ -1,4 +1,4 @@
-# HobonichiSearchTrends_August2021-August2026
+# HobonichiSearchTrends_August2021-August2026🖋️
 This is a simple project analyzes google web search and Youtube search trends for Hobonichi from August 2021 to August 2026, focusing on worldwide searches and searches from US and Japan.
 
 ## What is Hobonichi?
